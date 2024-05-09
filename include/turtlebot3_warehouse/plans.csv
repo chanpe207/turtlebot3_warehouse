@@ -1,0 +1,17 @@
+Start,End,Distance
+Depot,Depot,0
+Depot,Package1,3.3412
+Depot,Package2,7.60412
+Depot,Package3,5.60466
+Package1,Depot,3.3412
+Package1,Package1,0
+Package1,Package2,9.02491
+Package1,Package3,7.04203
+Package2,Depot,7.60412
+Package2,Package1,9.02491
+Package2,Package2,0
+Package2,Package3,2.38358
+Package3,Depot,5.60466
+Package3,Package1,7.04203
+Package3,Package2,2.38358
+Package3,Package3,0
